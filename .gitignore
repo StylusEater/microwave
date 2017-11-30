@@ -1,2 +1,8 @@
 .idea
 .idea/*
+CMakeCache.txt
+CMakeFiles/*
+Microwave.cbp
+cmake-build-debug/*
+cmake_install.cmake
+Makefile
